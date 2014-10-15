@@ -18,6 +18,8 @@ A widget for video from YouTube, Vimeo, and more. Resizes to its container.
 * Also makes videos in posts resize with the page
 * Light: doesn't send any files to the browser
 
+[youtube http://www.youtube.com/watch?v=6FfXmebV1sI]
+
 == Installation ==
 
 1. Upload the adapter-responsive-video directory to your /wp-content/plugins directory.
