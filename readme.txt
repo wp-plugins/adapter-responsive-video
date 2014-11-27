@@ -3,17 +3,17 @@ Contributors: ryankienstra
 Donate link: http://jdrf.org/get-involved/ways-to-donate/
 Tags: video, embed, responsive, mobile, post, Bootstrap
 Requires at least: 3.8
-Tested up to: 4.0 
+Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A widget for video from YouTube, Vimeo, and more. Resizes to its container.
+A widget for video from YouTube, Vimeo, and more. Resizes to its container. Easy: just enter the video url.
 
 == Description ==
 
 * Requires Twitter Bootstrap 3.2 
-* Automatically resizes
+* Video automatically resizes
 * Won't overflow its area, even on a mobile screen
 * Also makes videos in posts resize with the page
 * Light: doesn't send any files to the browser
